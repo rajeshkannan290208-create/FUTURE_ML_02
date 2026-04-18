@@ -135,20 +135,6 @@ The project saves trained models for reuse:
 
 ---
 
-## 📁 Project Structure
-
-```
-support-ticket-ml/
-│
-├── data/
-├── main.py / notebook.ipynb
-├── category_model.pkl
-├── priority_model.pkl
-├── vectorizer.pkl
-├── requirements.txt
-└── README.md
-```
-
 ---
 
 ## 🎯 Future Improvements
